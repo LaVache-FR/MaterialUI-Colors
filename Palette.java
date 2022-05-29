@@ -28,6 +28,7 @@ public enum Palette {
     DEEP_ORANGE(new Color(255, 87, 34)),
     BROWN(new Color(121, 85, 72)),
     GREY(new Color(158, 158, 158)),
+    LIGHT_GREY(new Color(192, 192, 192)),
     BLUE_GREY(new Color(96, 125, 139));
 
     private final Color color;
